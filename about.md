@@ -4,23 +4,27 @@ title: About
 permalink: /about/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. 
-
-Sed faucibus felis purus, sed convallis leo dictum vehicula.
 
 ## Education
 
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
+* Master of Science in Information Systems, University of Cincinnati
+* Bachelor of Business Administration, University of Cincinnati
 
 ## Roles
 
-Founder, ABC Organisation
+* **Application Development Manager, Cincinnati based payments company**
+* **Adjunct Instructor, Web Development, University of Cincinnati**
+* Software Architect, Cincinnati based payments company
+* Senior Software Engineer, Cincinnati based payments company
+* Independent Consultant, Cincinnati, OH
+* Senior Consultant, InfoScout
+* Senior Software Developer, American Financial Group
+* Software Developer, Great American Insurance Company
+* Computer Skills Tutor, Cincinnati based home school program
 
-## Skills
+
+<!-- ## Skills
 
 * **Skill 1** - `Skill` / `Skill` / `Skill` / `Skill`
 * **Skill 2** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
@@ -28,9 +32,9 @@ Founder, ABC Organisation
 * **Skill 4** - `Skill` / `Skill` / `Skill` 
 * **Skill 5** - `Skill`
 * **Skill 6** - `Skill` / `Skill` 
+     -->
     
-    
-## Achievements
+<!-- ## Achievements
 
 
 * [**This is my first achievement**](#) 
@@ -48,8 +52,8 @@ Founder, ABC Organisation
 * [**This is my third achievement**](#) 
 
    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula
-
+ -->
 
 ## Contact me
 
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
+[michael.gattuso@gmail.com](mailto:michael.gattuso@gmail.com)
