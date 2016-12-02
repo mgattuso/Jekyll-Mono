@@ -17,12 +17,11 @@ permalink: /about/
 * **Adjunct Instructor, Web Development, University of Cincinnati**
 * Software Architect, Cincinnati based payments company
 * Senior Software Engineer, Cincinnati based payments company
-* Independent Consultant, Cincinnati, OH
+* Independent Software Consultant, Cincinnati, OH
 * Senior Consultant, InfoScout
 * Senior Software Developer, American Financial Group
 * Software Developer, Great American Insurance Company
 * Computer Skills Tutor, Cincinnati based home school program
-
 
 <!-- ## Skills
 
